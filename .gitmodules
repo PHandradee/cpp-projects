@@ -1,3 +1,6 @@
 [submodule "cli-15-tiles-puzzle-game"]
 	path = cli-15-tiles-puzzle-game
 	url = https://github.com/PHandradee/cli-15-tiles-puzzle-game.git
+[submodule "tiny-crud"]
+	path = tiny-crud
+	url = https://github.com/PHandradee/tiny-crud.git
