@@ -4,3 +4,6 @@
 [submodule "tiny-crud"]
 	path = tiny-crud
 	url = https://github.com/PHandradee/tiny-crud.git
+[submodule "a-minesweeper"]
+	path = a-minesweeper
+	url = https://github.com/PHandradee/a-minesweeper.git
