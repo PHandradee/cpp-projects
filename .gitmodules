@@ -7,3 +7,6 @@
 [submodule "a-minesweeper"]
 	path = a-minesweeper
 	url = https://github.com/PHandradee/a-minesweeper.git
+[submodule "sfml-shape-bouncer"]
+	path = sfml-shape-bouncer
+	url = https://github.com/PHandradee/sfml-shape-bouncer.git
